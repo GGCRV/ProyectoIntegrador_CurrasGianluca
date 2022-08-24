@@ -1,10 +1,10 @@
-package com.Portafolio.Gian;
+package com.portafolioapgc.gc;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class GianApplicationTests {
+class GcApplicationTests {
 
 	@Test
 	void contextLoads() {

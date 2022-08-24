@@ -1,13 +1,13 @@
-package com.Portafolio.Gian;
+package com.portafolioapgc.gc;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class GianApplication {
+public class GcApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(GianApplication.class, args);
+		SpringApplication.run(GcApplication.class, args);
 	}
 
 }
